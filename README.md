@@ -47,9 +47,10 @@ An enterprise-ready GitOps continuous delivery platform built on lightweight Kub
        |  |  +------------+        +------------+ |  |
        |  +---------------------------------------+  |
        +---------------------------------------------+
-```J
+```
 
 ---
+
 
 ## 💟 Key Architectural Features
 
